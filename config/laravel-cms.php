@@ -98,11 +98,11 @@ return [
     */
 
     'table_name' => [
-        'pages'            => 'cms4_pages',
-        'files'            => 'cms4_files',
-        'settings'         => 'cms4_settings',
-        'inquiries'        => 'cms4_inquiries',
-        'inquiry_settings' => 'cms4_inquiry_settings',
+        'pages'            => 'us_pages',
+        'files'            => 'us_files',
+        'settings'         => 'us_settings',
+        'inquiries'        => 'us_inquiries',
+        'inquiry_settings' => 'us_inquiry_settings',
     ],
 
     /*
@@ -116,7 +116,7 @@ return [
     'template' => [
         'frontend_dir'      => 'frontend',
         'backend_dir'       => 'backend',
-        'backend_language'  => 'zh',
-        'frontend_language' => 'zh',
+        'backend_language'  => 'en',
+        'frontend_language' => 'en',
     ],
 ];
