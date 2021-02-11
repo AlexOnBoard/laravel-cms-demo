@@ -9,7 +9,7 @@ return [
     | Custom page routes
     |--------------------------------------------------------------------------
     */
-    'homepage_route' => env('LARAVEL_CMS_HOMEPAGE_ROUTE', '/cms-home'),
+    'homepage_route' => env('LARAVEL_CMS_HOMEPAGE_ROUTE', '/'),
 
     'page_route_prefix' => env('LARAVEL_CMS_PAGE_PREFIX', '/cms-'),
 
